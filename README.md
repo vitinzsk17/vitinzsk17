@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Prazer Sou Vitor Gomes de Araújo, Descobri minha paixão por Programação, Administração e Design UX/UI aos 18 anos. <br>E Desde então busco conhecimento em qualquer area para me tornar um profissional com excelência. Acredito que posso trabalhar muito bem em equipe e que estou apto a aprender sempre para evoluir.</p>
+<p align="left">Prazer Sou Vitor Gomes de Araújo, Descobri minha paixão por Programação, Administração e Design UX/UI . <br>E Desde então busco conhecimento em qualquer area para me tornar um profissional com excelência. Acredito que posso trabalhar muito bem em equipe e que estou apto a aprender sempre para evoluir.</p>
 
 ###
 
