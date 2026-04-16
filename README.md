@@ -1,9 +1,9 @@
 ![Colorful Streamer Illustration Twitch Banner](https://github.com/user-attachments/assets/878964c9-78b5-4221-a1bf-5127331cb8c3)
-# <h1 align="left">Olá Prazer Me chamo Vitor Gomes de Araújo</h1>
+# <h1 align="left"> Aspiring Software Engineer | Front End Focus </h1>
 
 ###
 
-<p align="left">Prazer Sou Vitor Gomes de Araújo, Descobri minha paixão por Programação, Administração e Design UX/UI . <br>E Desde então busco conhecimento em qualquer area para me tornar um profissional com excelência. Acredito que posso trabalhar muito bem em equipe e que estou apto a aprender sempre para evoluir.</p>
+<p align="left"> “Prazer, sou Vitor Gomes de Araújo. Descobri minha paixão por Programação  e Design UX/UI, e desde então venho buscando constantemente novos conhecimentos nessas áreas, com o objetivo de me tornar um profissional cada vez mais completo. Acredito no trabalho em equipe, tenho facilidade em aprender e estou sempre em busca de evolução contínua.”.</p>
 
 ###
 
