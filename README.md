@@ -7,7 +7,11 @@
 
 ###
 
-<h2 align="left">Com conhecimento sólido em desenvolvimento orientado a objetos e design de software, colaboro efetivamente em todas as fases do ciclo de vida do desenvolvimento. Sou apaixonado por resolver desafios técnicos, atualizado com as últimas tendências e comprometido com a entrega de software de alta qualidade. Minha comunicação clara e habilidades de resolução de problemas destacam minha capacidade de contribuir significativamente para projetos de desenvolvimento.</h2>
+<h2 align="left"> Possuo conhecimentos acadêmicos em lógica de programação, algoritmos e desenvolvimento de sistemas, com experiência prática em projetos de faculdade e TCC utilizando JavaScript, Python, C e C++, além de HTML e CSS para construção de interfaces. Também tenho familiaridade com bancos de dados, modelagem de dados (BrModelo e Visual Studio) e prototipação de interfaces com Figma e Canva.
+
+ 
+
+Me destaco por ser uma pessoa proativa, colaborativa, com aprendizado rápido e boa comunicação, buscando sempre contribuir com o time e evoluir profissionalmente..</h2>
 
 ###
 
